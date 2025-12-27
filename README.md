@@ -7,7 +7,7 @@ Predict whether a customer will accept a personal loan.
 Target: Personal Loan –
 1 = Loan Accepted, 0 = Loan Not Accepted
 
-#This helps the bank to:
+##This helps the bank to:
 - Target the right customers for marketing campaigns
 - Reduce cost of offers that are unlikely to be accepted
 - Improve overall conversion rate for loans
