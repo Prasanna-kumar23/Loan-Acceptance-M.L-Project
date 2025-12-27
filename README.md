@@ -1,4 +1,4 @@
-# Loan Acceptance Prediction
+# Loan Acceptance Prediction (Python + Machine Learning)
 Machine Learning Project to Predict whether a bank customer will accept a personal loan offer
 
 ## Problem
